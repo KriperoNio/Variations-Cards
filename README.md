@@ -1,16 +1,17 @@
-# variations_cards
+# Variations Cards
 
-A new Flutter project.
+In this repository there will be many different variations and implementations of flutter maps by type: gyroscope card, luminous card, and much more... After the completion of the project, the full list will be released immediately, but for now it will be gradually changed.
+## Also
 
-## Getting Started
+The project will have as few dependencies as possible, so some ideas will be more difficult to implement.
+## In Development
 
-This project is a starting point for a Flutter application.
+- Gyroscope Card
 
-A few resources to get you started if this is your first Flutter project:
+## Tasks & Progress
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Gyroscope Card
+- Luminous Card
+- Parallax Card
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Already done
